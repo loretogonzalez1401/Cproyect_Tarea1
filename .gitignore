@@ -1,0 +1,9 @@
+src/main.o
+src/app.o
+output/main
+src/bib.o
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+
+TXT.txt
